@@ -1,5 +1,5 @@
 {
-  "name": "@saltcorn/adminlte",
+  "name": "@j2l/adminlte",
   "version": "0.1.2",
   "description": "AdminLTE layout plugin",
   "main": "index.js",
@@ -10,12 +10,12 @@
     "@saltcorn/data": "^0.1.0",
     "@saltcorn/markup": "^0.1.0"
   },
-  "author": "Tom Nielsen",
+  "author": "Tom Nielsen & Philippe Manzano",
   "license": "MIT",
   "devDependencies": {
     "jest": "^25.1.0"
   },
-  "repository": "github:saltcorn/adminLTE",
+  "repository": "github:j2l/adminlte",
   "jest": {
     "testEnvironment": "node"
   },
